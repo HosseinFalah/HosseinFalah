@@ -1,4 +1,4 @@
-Hi 👋 My name is Hossein
+Hi 👋 I'm Hossein
 =============================
 
 Front-End Developer
