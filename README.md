@@ -6,6 +6,30 @@
 
 ###
 
+### A little more about me ...
+
+```javascript
+const aboutMe = {
+  pronouns: "He" | "him",
+  language: [Javascript, Typescript],
+  tools: [
+    React,
+    Redux,
+    Next,
+    Tailwind,
+    Sass,
+    Mui,
+    Git
+    Style - Components,
+    Jest,
+    socket.io,
+  ],
+  architectures: ["design system pattern", "clean", "SOLID"],
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+};
+```
+
 <h2 align="left">About me</h2>
 
 ###
