@@ -13,16 +13,10 @@ const aboutMe = {
   pronouns: "He" | "him",
   language: [Javascript, Typescript],
   tools: [
-    React,
-    Redux,
-    Next,
-    Tailwind,
-    Sass,
-    Mui,
-    Git
-    Style - Components,
-    Jest,
-    socket.io,
+    React, Redux, Next,
+    Tailwind, Sass, Mui,
+    Git, Style - Components,
+    Jest, socket.io,
   ],
   architectures: ["design system pattern", "clean", "SOLID"],
   challenge:
